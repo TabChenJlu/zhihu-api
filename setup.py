@@ -5,7 +5,7 @@ except ImportError:
     from distutils.core import setup
 import io
 
-VERSION = '0.2.6'
+VERSION = '0.2.60'
 
 with io.open("README.md", encoding='utf-8') as f:
     long_description = f.read()
